@@ -1,3 +1,3 @@
 # Simple-Postman-Clone
 Simple postman clone using Javascript <br>
-[check out](https://simple-postman-clone.netlify.app/)
+<a href="https://simple-postman-clone.netlify.app/" target="_blank">check out</a>
